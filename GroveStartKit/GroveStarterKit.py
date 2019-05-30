@@ -6,7 +6,7 @@
 import RPi.GPIO as GPIO
 import time
 
-
+#git test
 class DHT:
 
     MAXTIMINGS = 85
